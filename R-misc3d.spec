@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.8.4
-Release:          1
+Release:          2
 Summary:          Miscellaneous 3D Plots
 Group:            Sciences/Mathematics
 License:          GPL
